@@ -1,4 +1,4 @@
-module github.com/liyue201/gnark-circomlib
+module github.com/mistcash/gnark-circomlib
 
 go 1.24.0
 
